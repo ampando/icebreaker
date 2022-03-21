@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _ICEBREAKER_
 
-#### By _**{Adrienne Matosich}**_
+#### By:**Adrienne Matosich**_
 
-#### _{Get to know your cohorts!}_
+#### _Get to know your cohorts!_
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ This page is available to help anyone interested in getting to know their friend
 
 ## Setup/Installation Requirements
 
-* Just copy the URL and open in your browwser, or share with friends. 
+* Just copy the URL and open in your browser, or share with friends. 
 
 
 ## Known Bugs
